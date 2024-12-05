@@ -17,10 +17,11 @@ left.addEventListener('click', function(){
 });
 
 //wingstop choice 1
-wingstop.addEventListener('dbclick', function(){
+wingstop.addEventListener('dbl', function(){
 
 text.innerHTML = "man I love wingstop that was so good";
 wingstop.style.display = "none";
-finishedwingsatop.style.display = "block";
+finishedwingstop.style.display = "block";
+
 
 });
