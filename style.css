@@ -1,1 +1,24 @@
-img{width:300px;}
+
+@import url('https://fonts.googleapis.com/css2?family=Agu+Display&display=swap');
+
+img{width: 600px;}
+
+p{
+    color:white;
+    font-size:50px;
+    font-family:"Agu Display";
+}
+
+body{
+    background-color: black;
+
+}
+
+.Make_Dinner{
+    background-color: yellow;
+    color: green;
+}
+.Fast_Food{
+    background-color: yellow;
+    color: green;
+}
